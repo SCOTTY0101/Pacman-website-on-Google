@@ -3,7 +3,7 @@
 #main-body{
     background-color:#ffa500;
     height: 400px;
-    width:auto;
+    width: auto;
     background-image: url('../Pac Man webpage 1.0/Images/pacman1.0.jpg');
     background-repeat: no-repeat;
     background-position: bottom center;
@@ -12,16 +12,16 @@
 
 p{
     margin-top: 10px;
-    font-size:40px;
+    font-size: 40px;
     text-align: center;
     color: #ff0000;
 }
 h1{
     font-family: Arial, Helvetica, sans-serif; 
-    font-size:50px;
-    margin-bottom:10px;
+    font-size: 50px;
+    margin-bottom: 10px;
     text-align: center;
-    Color:#000;
+    Color: #000;
 }
 b:hover{
     color: #ff0000;
@@ -30,7 +30,7 @@ b:hover{
 }
 .section{
     border: 2px solid red;
-    width:auto;
+    width: auto;
     height: 105px;
     background-color: #ffff00;
 }
